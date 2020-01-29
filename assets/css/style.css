@@ -1,0 +1,23 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+header {
+  background-image: url('../img/bghero2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 10rem;
+}
+
+h1, h2, navbar-brand {
+  font-family: 'Bitter', serif;
+}
+
+i {
+  color: white;
+}
+
+.navbar-brand {
+  font-family: 'Bitter', serif;
+}
